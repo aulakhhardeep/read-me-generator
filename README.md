@@ -1,14 +1,14 @@
 # Professional ReadMe generator
-
-  ## Licensing:
-  [![license](https://img.shields.io/badge/license--blue)](https://shields.io)
+- This application is for creating README.MD file by using terminal window.
+- 
   ## Table of Contents 
   - [Description](#description)
   - [Installation](#installation)
   - [Usage](#usage)
-  - [Contribution](#contribution)
-  - [Testing](#testing)
   - [Additional Info](#additional-info)
+  
+  ## Link for the Application:
+  
   ## Description:
   - GIVEN a command-line application that accepts user input
 - WHEN I am prompted for information about my application repository
@@ -29,13 +29,7 @@
  - Download through github
  - Make sure inquirer package is installed
   ## Usage:
- - Run it by tyoing node index in the terminal window
-  ## License:
-  N/A
-  ## Contribution:
-  N/A
-  ## Testing:
-  N/A
+ - Run it by typing node index in the terminal window
   ## Additional Info:
   - Github: [aulakhhardeep](https://github.com/aulakhhardeep)
   - Email: aulakh.hardeep91@gmail.com 
